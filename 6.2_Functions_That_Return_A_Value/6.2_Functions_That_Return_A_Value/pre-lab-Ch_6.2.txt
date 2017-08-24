@@ -1,0 +1,12 @@
+pre-lab ch 6.2
+
+1 static
+2 global
+3 prototype
+4 reference
+5 void 
+6 return 
+7 braces
+8 stub
+9 reference
+10 overloaded 

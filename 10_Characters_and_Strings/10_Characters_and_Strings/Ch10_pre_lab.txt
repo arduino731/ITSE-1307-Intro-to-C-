@@ -1,0 +1,38 @@
+1 B
+2 2
+3 0
+4 0
+5 \0
+6 25
+7 22
+8 In the Gardenof Eden
+9 cctype <ctype.h>
+10 single quotes
+
+
+1. The code cout << toupper('b'); causes a __________ to be displayed
+on the screen.
+2. The data type returned by isalpha('g') is __________.
+3. After the assignment statement result = isdigit('$'), result has the
+value __________.
+4. The code cout << tolower('#'); causes a  __________ to be displayed
+on the screen.
+5. The end of a string is marked in computer memory by the __________.
+6. In cin.getline(name,25), the 25 indicates that the user can input at most __________
+characters into name.
+7. Consider the following:
+char message[35] = "Like tears in the rain";
+int length;
+length = strlen(message);
+Then the value of length is __________.
+8. Consider the code
+char string1[30] = "In the Garden";
+char string2[15] = "of Eden";
+strcat(string1,string2);
+cout << string1;
+The output for this is __________.
+9. The __________ header file must be included to access the islower
+and isspace character functions.
+10. In C++, a string constant must be enclosed in whereas a
+character constant must be enclosed in __________.
+ 

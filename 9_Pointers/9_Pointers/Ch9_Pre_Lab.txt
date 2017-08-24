@@ -1,0 +1,27 @@
+1 *
+2 &
+3 subscript
+4 new
+5 delete
+6 address
+7 	004FFD34
+8 	3.75
+9 	004FFD34
+10	3.75
+
+
+1. The _________ symbol is the dereferencing operator.
+2. The _________ symbol means “address of.”
+3. The name of an array, without any brackets, acts as a(n) _________ 
+to the starting address of the array.
+4. An operator that allocates a dynamic variable is _________  .
+5. An operator that deallocates a dynamic variable is _________ .
+6. Parameters that are passed by _________ are similar to a pointer variable in that they can contain the address of another variable. They are used as parameters of a procedure (void function) whenever we want a procedure to change the value of the argument.
+Given the following information, fill the blanks with either “an address” or “3.75”.
+	float * pointer; 
+float pay = 3.75; 
+pointer = &pay;
+7. cout << pointer; will print _________ . 
+8. cout << *pointer; will print _________ .
+9. cout << &pay; will print _________ .
+10. cout << pay; will print _________ .

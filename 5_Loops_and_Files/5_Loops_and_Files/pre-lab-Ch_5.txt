@@ -1,0 +1,13 @@
+pre-lab Ch 5 
+
+1 infinite or endless
+2 counter
+3 do while
+4 while
+5 second, first
+6 first, second
+7 nested
+8 fstream 
+9 for
+10 sentinel
+11 inner, outer 

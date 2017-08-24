@@ -1,0 +1,10 @@
+pre-lab writing assignment
+1. -20
+2. 2 * x + pow(3,4);
+3. coercion
+4. conversion
+5. header file iostream
+6. whitespace charactor
+7. insertion operator
+8. iostream
+9. newline

@@ -1,0 +1,12 @@
+Ch7
+pre-lab 
+1 0, 1 
+2 type of data to be stored, number
+3 loop
+4 typedef
+5 nested
+6 reference
+7 number, elements
+8 char
+9 counter
+10 enumerate

@@ -1,0 +1,12 @@
+pre-Lab Ch 6
+
+1 void
+2 reference parameter
+3 arguments
+4 data type, variable names
+5 ampersand
+6 procedures
+7 reference
+8 variable name , data type
+9 scope
+10 formal

@@ -1,0 +1,6 @@
+﻿  6.7.cpp
+c:\users\brian\documents\visual studio 2015\projects_2_1307\6.2_functions_that_return_a_value\6.2_functions_that_return_a_value\6.7.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\brian\documents\visual studio 2015\projects_2_1307\6.2_functions_that_return_a_value\6.2_functions_that_return_a_value\6.7.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\brian\documents\visual studio 2015\projects_2_1307\6.2_functions_that_return_a_value\6.2_functions_that_return_a_value\6.7.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  6.2_Functions_That_Return_A_Value.vcxproj -> C:\Users\Brian\Documents\Visual Studio 2015\Projects_2_1307\6.2_Functions_That_Return_A_Value\Debug\6.2_Functions_That_Return_A_Value.exe
+  6.2_Functions_That_Return_A_Value.vcxproj -> C:\Users\Brian\Documents\Visual Studio 2015\Projects_2_1307\6.2_Functions_That_Return_A_Value\Debug\6.2_Functions_That_Return_A_Value.pdb (Partial PDB)
